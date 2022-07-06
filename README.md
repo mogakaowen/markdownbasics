@@ -1,4 +1,5 @@
 ![Game logo](img.png)
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/mogakaowen/markdownbasics)
 
 # Rock, paper and scissors game
