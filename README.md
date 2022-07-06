@@ -1,4 +1,4 @@
-![Game logo](../markdownbasics/img.png)
+![Game logo](img.png)
 ![GitHub last commit](https://img.shields.io/github/last-commit/mogakaowen/markdownbasics)
 
 # Rock, paper and scissors game
@@ -8,4 +8,4 @@ It is my first python project and my first trial of an awesome README file.
 
 ---
 The code is attached below.
-![Code image](../markdownbasics/carbon.png)
+![Code image](carbon.png)
